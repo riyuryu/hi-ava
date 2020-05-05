@@ -1,4 +1,4 @@
 // prettier-ignore
-export default [
-    { author: "riyuryu", quotes: "semangat presentasinya" }
+export default 
+	{ author: "riyuryu", quotes: "semangat ya vina kuliah onlinenya" }
 ];
